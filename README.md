@@ -3,10 +3,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-jdsp-23s-projects.vercel.app/api?username=JDSP-23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-jdsp-23s-projects.vercel.app/api?username=JDSP-23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <br>
-  <img src="https://github-readme-stats-jdsp-23s-projects.vercel.app/api/top-langs?username=JDSP-23&layout=donut&theme=dracula" height="200" alt="stats graph"  />&nbsp&nbsp
-  <img src="https://github-readme-stats-jdsp-23s-projects.vercel.app/api/wakatime?username=JD_SP&layout=compact&theme=dracula" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-jdsp-23s-projects.vercel.app/api/top-langs?username=JDSP-23&layout=donut&theme=dracula" height="250" alt="stats graph"  />&nbsp&nbsp
+  <img src="https://github-readme-stats-jdsp-23s-projects.vercel.app/api/wakatime?username=JD_SP&layout=compact&theme=dracula" height="250" alt="stats graph"  />
   
  
 
